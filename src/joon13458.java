@@ -21,7 +21,7 @@ public class joon13458 {
         b = Integer.parseInt(st.nextToken());
         c = Integer.parseInt(st.nextToken());
 
-        //연산
+        //연산 작업
         for (int i = 0; i < n; i++) {
             int t = a[i]-b;
             count++;
