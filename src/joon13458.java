@@ -10,7 +10,7 @@ public class joon13458 {
     }
 
     public static void main(String[] args) throws IOException {
-        long count = 0L;
+        long count = 0;
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         new BufferedWriter(new OutputStreamWriter(System.out));
         int n = Integer.parseInt(br.readLine());
