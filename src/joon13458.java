@@ -6,13 +6,10 @@ import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
 public class joon13458 {
-    public joon13458() {
-    }
 
     public static void main(String[] args) throws IOException {
         long count = 0;
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        new BufferedWriter(new OutputStreamWriter(System.out));
         int n = Integer.parseInt(br.readLine());
         StringTokenizer st = new StringTokenizer(br.readLine());
         int[] a = new int[n];
