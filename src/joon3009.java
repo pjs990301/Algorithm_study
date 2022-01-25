@@ -7,9 +7,6 @@ public class joon3009 {
         int[] coord_2 = { in.nextInt(), in.nextInt() };
         int[] coord_3 = { in.nextInt(), in.nextInt() };
 
-
-        in.close();
-
         int x;
         int y;
 
