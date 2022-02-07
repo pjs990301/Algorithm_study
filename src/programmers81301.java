@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class programmers81301 {
     public static void main(String[] args) {
-        Solution sc = new Solution();
+        Solution81301 sc = new Solution81301();
         Scanner in = new Scanner(System.in);
         String input = in.nextLine();
         System.out.println(sc.solution(input));
