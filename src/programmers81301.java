@@ -9,7 +9,7 @@ public class programmers81301 {
     }
 }
 
-class Solution {
+class Solution81301 {
     public int solution(String s) {
         String[] arr1 = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
         String[] arr2 = {"0", "1", "2", "3", "4", "5", "6", "7", "8", "9"};
