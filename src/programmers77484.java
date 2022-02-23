@@ -6,7 +6,7 @@ import java.util.StringTokenizer;
 public class programmers77484 {
     public static void main(String[] args) {
 
-        Solution sc = new Solution();
+        Solution77484 sc = new Solution77484();
         Scanner in = new Scanner(System.in);
         StringTokenizer str = new StringTokenizer(in.nextLine(), ", ");
         int[] lottos = new int[6];
@@ -23,7 +23,7 @@ public class programmers77484 {
     }
 }
 
-class Solution {
+class Solution77484 {
     public int[] solution(int[] lottos, int[] win_nums) {
         Arrays.sort(lottos);
         Arrays.sort(win_nums);
