@@ -51,7 +51,7 @@ class Solution92334 {
                     arr[i][1] = report[i];
                 }
             }
-            i++;
+             i++;
         }
 
 
