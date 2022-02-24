@@ -10,10 +10,16 @@ public class programmers92334 {
 
 
         int k = 0;
-        /*input
+        /*
+        input case1
         "muzi", "frodo", "apeach", "neo"
         "muzi frodo","apeach frodo","frodo neo","muzi neo","apeach muzi"
         2
+
+        input case2
+        "con", "ryan"
+        "ryan con", "ryan con", "ryan con", "ryan con"
+        3
         */
         StringTokenizer stringTokenizer = new StringTokenizer(in.readLine(), ", ");
         int i = 0;
