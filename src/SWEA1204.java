@@ -6,8 +6,8 @@ public class SWEA1204 {
         int T;
         T = sc.nextInt();
         for (int test_case = 1; test_case <= T; test_case++) {
-            int scores[] = new int[1000];
-            int count[] = new int[101];
+            int[] scores = new int[1000];
+            int[] count = new int[101];
             int maxScore = 0;
 
             int tc = sc.nextInt();
