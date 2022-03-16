@@ -1,3 +1,5 @@
+package BaekJoon;
+
 public class joon15596 {
 
     public static void main(String[] args) {
