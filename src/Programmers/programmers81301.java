@@ -1,3 +1,5 @@
+package Programmers;
+
 import java.util.Scanner;
 
 public class programmers81301 {
