@@ -1,7 +1,7 @@
 # Algorithm_study
 
-Algorithm_study With 백준 & 프로그래머스 & SW Expert Academy
-<br>
+Baekjoon, SW Expert Academy, Programmers solve  
+:link:를 통해 문제와 코드 확인
 
 ## Baekjoon
 Q NUMBER|Q NAME|Q LINK|CODE LINK|LANGUAGE|
@@ -82,3 +82,18 @@ Q NUMBER|Q NAME|Q LINK|CODE LINK|LANGUAGE|
 |**5622**|다이얼준|[:link:](https://www.acmicpc.net/problem/5622)|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/BaekJoon/joon5622.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**8958**|OX퀴즈|[:link:](https://www.acmicpc.net/problem/8958)|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/BaekJoon/joon8958.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**9012**|괄호|[:link:](https://www.acmicpc.net/problem/9012)|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/BaekJoon/joon9012.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
+
+## Programmers 
+Q NUMBER|Q NAME|Q LINK|CODE LINK|LANGUAGE|
+|:--:|:--:|:--:|:--:|:--:|
+|**42576**|완주하지 못한 선수|[:link:](https://programmers.co.kr/learn/courses/30/lessons/42576)|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/Programmers/programmers42576.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
+|**42586**|기능개발|[:link:](https://programmers.co.kr/learn/courses/30/lessons/42586)|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/Programmers/programmers42586.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
+|**70128**|내적|[:link:](https://programmers.co.kr/learn/courses/30/lessons/70128)|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/Programmers/programmers70128.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
+|**774894**|내적|[:link:](https://programmers.co.kr/learn/courses/30/lessons/77484)|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/Programmers/programmers77484.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
+|**81301**|숫자 문자열과 영단어|[:link:](https://programmers.co.kr/learn/courses/30/lessons/81301)|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/Programmers/programmers81301.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
+|**92334**|신고 결과 받기|[:link:](https://programmers.co.kr/learn/courses/30/lessons/92334)|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/Programmers/programmers92334.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
+
+## SWEA
+Q NUMBER|Q NAME|Q LINK|CODE LINK|LANGUAGE|
+|:--:|:--:|:--:|:--:|:--:|
+|**1009**|분산처리|[:link:](https://www.acmicpc.net/problem/1009)|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/BaekJoon/joon1009.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
