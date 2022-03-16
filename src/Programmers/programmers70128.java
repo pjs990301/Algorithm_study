@@ -1,3 +1,5 @@
+package Programmers;
+
 public class programmers70128 {
     public static void main(String[] args) {
         Solution70128 sc = new Solution70128();
