@@ -86,7 +86,7 @@ Q NUMBER|Q NAME|Q LINK|CODE LINK|LANGUAGE|
 ## Programmers 
 Q NUMBER|Q NAME|Q LINK|CODE LINK|LANGUAGE|
 |:--:|:--:|:--:|:--:|:--:|
-|**42576**|프로그래머스 코딩테스트 고득점 Kit 해시완주하지 못한 선수|[:link:](https://programmers.co.kr/learn/courses/30/lessons/42576)|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/Programmers/programmers42576.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
+|**42576**|프로그래머스 코딩테스트 고득점 Kit \n 해시완주하지 못한 선수|[:link:](https://programmers.co.kr/learn/courses/30/lessons/42576)|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/Programmers/programmers42576.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**42586**|기능개발|[:link:](https://programmers.co.kr/learn/courses/30/lessons/42586)|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/Programmers/programmers42586.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**70128**|내적|[:link:](https://programmers.co.kr/learn/courses/30/lessons/70128)|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/Programmers/programmers70128.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**774894**|내적|[:link:](https://programmers.co.kr/learn/courses/30/lessons/77484)|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/Programmers/programmers77484.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
