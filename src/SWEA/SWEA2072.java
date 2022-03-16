@@ -1,3 +1,5 @@
+package SWEA;
+
 import java.util.Scanner;
 
 public class SWEA2072 {
