@@ -1,3 +1,5 @@
+package BaekJoon;
+
 import java.util.Scanner;
 
 public class joon3053 {
