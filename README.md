@@ -95,7 +95,7 @@ Q NUMBER|Q NAME|Q LINK|CODE LINK|LANGUAGE|
 
 ## SWEA
 Q NUMBER|Q NAME|CODE LINK|LANGUAGE|
-|:--:|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|
 |**1204**|S/W 문제해결 기본 1일차<br>최빈수 구하기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA1204.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**2701**|평균값 구하기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA2071.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**2702**|홀수만 더하기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA2072.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
