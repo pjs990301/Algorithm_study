@@ -94,7 +94,9 @@ Q NUMBER|Q NAME|Q LINK|CODE LINK|LANGUAGE|
 |**92334**|프로그래머스 2022 KAKAO BLIND RECRUITMENT<br>신고 결과 받기|[:link:](https://programmers.co.kr/learn/courses/30/lessons/92334)|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/Programmers/programmers92334.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 
 ## SWEA
-Q NUMBER|Q NAME|Q LINK|CODE LINK|LANGUAGE|
+Q NUMBER|Q NAME|CODE LINK|LANGUAGE|
 |:--:|:--:|:--:|:--:|:--:|
-|**1204**|S/W 문제해결 기본 1일차<br>최빈수 구하기|[:link:](https://swexpertacademy.com/main/code/problem/problemDetail.do)|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA1204.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
-|**2701**|평균값 구하기|[:link:](https://swexpertacademy.com/main/code/problem/problemDetail.do)|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA2071.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
+|**1204**|S/W 문제해결 기본 1일차<br>최빈수 구하기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA1204.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
+|**2701**|평균값 구하기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA2071.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
+|**2702**|홀수만 더하기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA2072.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
+|**9658**|유효숫자 표기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA9658.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
