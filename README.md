@@ -100,4 +100,4 @@ Q NUMBER|Q NAME|CODE LINK|LANGUAGE|
 |**2701**|평균값 구하기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA2071.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**2702**|홀수만 더하기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA2072.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**9658**|유효숫자 표기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA9658.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
-|**13550**|등차수열의 곱<br>8002ms 해결X|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA13550.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
+|**13550**|등차수열의 곱<br><8002ms 해결X>|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA13550.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
