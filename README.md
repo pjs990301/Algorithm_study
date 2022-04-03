@@ -97,6 +97,7 @@ Q NUMBER|Q NAME|Q LINK|CODE LINK|LANGUAGE|
 Q NUMBER|Q NAME|CODE LINK|LANGUAGE|
 |:--:|:--:|:--:|:--:|
 |**1204**|S/W 문제해결 기본 1일차<br>최빈수 구하기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA1204.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
+|**2063**|중간값 찾기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA2063.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**2068**|최대수 구하기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA2068.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**2070**|큰 놈, 작은 놈, 같은 놈|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA2070.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**2701**|평균값 구하기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA2071.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
