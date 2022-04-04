@@ -97,6 +97,7 @@ Q NUMBER|Q NAME|Q LINK|CODE LINK|LANGUAGE|
 Q NUMBER|Q NAME|CODE LINK|LANGUAGE|
 |:--:|:--:|:--:|:--:|
 |**1204**|S/W 문제해결 기본 1일차<br>최빈수 구하기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA1204.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
+|**2025**|N줄덧셈|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA2025.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**2027**|대각선 출력하기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA2027.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**2029**|몫과 나머지 출력하기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA2029.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**2043**|서랍의 비밀번호|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA2043.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
