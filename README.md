@@ -109,6 +109,7 @@ Q NUMBER|Q NAME|CODE LINK|LANGUAGE|
 |**2046**|스탬프 찍기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA2046.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**2047**|신문 헤드라인|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA2047.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**2050**|알파벳을 숫자로 변환|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA2050.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
+|**2056**|연월일 달력|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA2056.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**2058**|자릿수 더하기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA2058.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**2063**|중간값 찾기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA2063.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**2068**|최대수 구하기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA2068.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
