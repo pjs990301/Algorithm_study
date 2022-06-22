@@ -101,6 +101,7 @@ Q NUMBER|Q NAME|CODE LINK|LANGUAGE|
 |:--:|:--:|:--:|:--:|
 |**1204**|S/W 문제해결 기본 1일차<br>최빈수 구하기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA1204.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**1545**|거꾸로 출력해 보아요|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA1545.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
+|**1926**|간단한 369게임|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA1926.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**1933**|간단한 N 의 약수|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA1933.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**1936**|1대1 가위바위보|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA1936.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 |**1938**|아주 간단한 계산기|[:link:](https://github.com/pjs990301/Algorithm_study/blob/main/src/SWEA/SWEA1938.java)|<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
